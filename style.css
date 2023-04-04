@@ -7,7 +7,7 @@ html {
     background: greenyellow
   }
   
-  h1, h2, h3, p {
+  h1, h2, h3, p, ol {
     text-align: center;
   }
   
